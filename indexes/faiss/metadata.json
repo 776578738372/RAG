@@ -1,0 +1,102 @@
+[
+  {
+    "faiss_index": 0,
+    "child_id": "parent_00000_child_000",
+    "parent_id": "parent_00000"
+  },
+  {
+    "faiss_index": 1,
+    "child_id": "parent_00001_child_000",
+    "parent_id": "parent_00001"
+  },
+  {
+    "faiss_index": 2,
+    "child_id": "parent_00002_child_000",
+    "parent_id": "parent_00002"
+  },
+  {
+    "faiss_index": 3,
+    "child_id": "parent_00003_child_000",
+    "parent_id": "parent_00003"
+  },
+  {
+    "faiss_index": 4,
+    "child_id": "parent_00004_child_000",
+    "parent_id": "parent_00004"
+  },
+  {
+    "faiss_index": 5,
+    "child_id": "parent_00005_child_000",
+    "parent_id": "parent_00005"
+  },
+  {
+    "faiss_index": 6,
+    "child_id": "parent_00006_child_000",
+    "parent_id": "parent_00006"
+  },
+  {
+    "faiss_index": 7,
+    "child_id": "parent_00007_child_000",
+    "parent_id": "parent_00007"
+  },
+  {
+    "faiss_index": 8,
+    "child_id": "parent_00008_child_000",
+    "parent_id": "parent_00008"
+  },
+  {
+    "faiss_index": 9,
+    "child_id": "parent_00009_child_000",
+    "parent_id": "parent_00009"
+  },
+  {
+    "faiss_index": 10,
+    "child_id": "parent_00009_child_001",
+    "parent_id": "parent_00009"
+  },
+  {
+    "faiss_index": 11,
+    "child_id": "parent_00010_child_000",
+    "parent_id": "parent_00010"
+  },
+  {
+    "faiss_index": 12,
+    "child_id": "parent_00010_child_001",
+    "parent_id": "parent_00010"
+  },
+  {
+    "faiss_index": 13,
+    "child_id": "parent_00011_child_000",
+    "parent_id": "parent_00011"
+  },
+  {
+    "faiss_index": 14,
+    "child_id": "parent_00011_child_001",
+    "parent_id": "parent_00011"
+  },
+  {
+    "faiss_index": 15,
+    "child_id": "parent_00011_child_002",
+    "parent_id": "parent_00011"
+  },
+  {
+    "faiss_index": 16,
+    "child_id": "parent_00012_child_000",
+    "parent_id": "parent_00012"
+  },
+  {
+    "faiss_index": 17,
+    "child_id": "parent_00013_child_000",
+    "parent_id": "parent_00013"
+  },
+  {
+    "faiss_index": 18,
+    "child_id": "parent_00013_child_001",
+    "parent_id": "parent_00013"
+  },
+  {
+    "faiss_index": 19,
+    "child_id": "parent_00014_child_000",
+    "parent_id": "parent_00014"
+  }
+]
