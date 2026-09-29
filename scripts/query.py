@@ -4,8 +4,7 @@ from src.pipeline.rag import RAG
 def main():
     rag = RAG(top_k=5)
 
-    question = "What are the three core structural tiers of the HawkVision AI organizational hierarchy, and what key configuration entities are defined at Tier 2?"
-
+    question = "Name the five primary safety and operational usecases supported by HawkVision AI"
     result = rag.ask(question)
 
     print("=" * 80)
